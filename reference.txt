@@ -1,0 +1,4 @@
+https://morvanzhou.github.io/tutorials/machine-learning/torch/
+
+https://github.com/traveller59/second.pytorch
+
